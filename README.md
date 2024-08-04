@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1vicvis7
-- 👀 I’m interested in Game Development and AI/ML.
+- 👀 I’m interested in Analog, hardware(Verilog) and AI/ML.
 - 🌱 I’m currently learning Machine Learning using Python/MATLAB and some Unity Game development as beginner.
-- 💞️ I’m looking to collaborate on Python, MATLAB, C++ based projects
+- 💞️ I’m looking to collaborate on Verilog, SystemC, Python, MATLAB, C++ based projects
 - 📫 You can contact me over my email, issvishnu@gmail.com
 - 😉 Do refer to my [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/indraganti-vishnudatta-04b0b61b1/) for all my projects and achievements 
 <!---
